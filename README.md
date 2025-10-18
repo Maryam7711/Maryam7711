@@ -64,7 +64,7 @@ I have been learning python, here are some simple python repositries as a show c
 ## Contact Me  
 
 **Email:** [maryamkhan6080@gmail.com](mailto:maryamkhan6080@gmail.com)  
-**Phone:** +92-321-3947483  
+**Phone:** +92  
 **LinkedIn:**
 
 ---
